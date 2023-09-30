@@ -1,0 +1,75 @@
+.banner-left{
+    padding-left: 50px;
+    font-family: cursive;
+    width: 400px;
+
+    
+}
+
+h1{
+    color: tomato;
+}
+h3{
+    padding-top: 5px;
+    font-family: cursive;
+}
+p{
+    font-family: cursive;
+    font-weight: 50px;
+    padding-top: 10px;
+}
+
+.banner-right img{
+    width: 500px;
+    height: auto;
+    padding-right: 50px;
+}
+#banner{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.button{
+    padding: 10px 15px;
+    background: linear-gradient(to right, #f12711, #f5af19);
+    border: 0;
+    border-radius: 10px;
+}
+#banner-2{
+    display: flex;
+    padding-left: 150px;
+    padding-right: 150px;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+#Warrior{
+    display: flex;
+    padding:0px 50px 0px 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    justify-content:space-between;
+}
+.developer{
+    width: 300px;
+    height:auto;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px; 
+    margin-left: 50px;
+    padding: 0px 15px 0px 15px ;
+}
+.developer2{
+    width: 300px;
+    height: auto;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px; 
+    margin-left: 50px;
+    padding: 0px 15px 0px 15px ;
+}
+.app-developer{
+    width: 300px;
+    height: auto;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px; 
+    margin-left: 50px;
+    padding: 0px 15px 0px 15px ;
+
+}
